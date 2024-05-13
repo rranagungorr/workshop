@@ -1,2 +1,1 @@
-
-hgfıpjnjrx
+class B{}
