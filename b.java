@@ -1,2 +1,1 @@
-
-yguy
+class B{}
